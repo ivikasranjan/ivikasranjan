@@ -63,10 +63,10 @@ Thank you for visiting my repository. I hope you find my projects interesting an
 
 
 <br/><br/>
-<!--
+
 <h2 align="center">🏆 Trophy 🏆</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityak1950" alt="adityak1950" /></a> </p>
--->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivikasranjan" alt="ivikasranjan" /></a> </p>
+
 <br/><br/>
 
 <hr/>
