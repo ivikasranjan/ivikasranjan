@@ -64,9 +64,16 @@ Thank you for visiting my repository. I hope you find my projects interesting an
 
 <br/><br/>
 
-<h2 align="center">🏆 Trophy 🏆</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivikasranjan" alt="ivikasranjan" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ivikasranjan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/><br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ivikasranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ivikasranjan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
