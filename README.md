@@ -1,25 +1,3 @@
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=200&section=header&text=Hello🕹️&fontSize=80" />
-</p>
-<h1 align="center">
-  Let's Connect!💬
-</h1>
-<p align="center">      
-      <a href="https://www.instagram.com/_vikasranjan/" >     
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-      </a> 
-      <a href="https://www.linkedin.com/in/ivikasranjan/" >
-        <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
-      </a>
-      <!- <a href="https://leetcode.com/ivikasranjan/">
-  <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png"/>
-</a> 
-</p>
-<p align="center">
-  <img height="300" width="500" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
-</p>
-
----
 
 <h2> 👨🏻‍💻A Little Bit About Me and My Interests</h2>
 
@@ -64,16 +42,4 @@ Thank you for visiting my repository. I hope you find my projects interesting an
 
 <br/><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ivikasranjan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ivikasranjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ivikasranjan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img  align=right src="https://komarev.com/ghpvc/?username=ivikasranjan&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
