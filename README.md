@@ -55,7 +55,7 @@ ___
 Name: Vikas Ranjan
 Located_in: Pune, India
 
-Education: Pursuing Bachelor's in Artificial Intelligence and Data Science Engineering 
+Education: Completed Bachelor's in Artificial Intelligence and Data Science Engineering 
   
 Fields_of_interests:
    "Data Science",
